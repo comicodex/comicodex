@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Scikitlearn-informational?style=flat&logo=Scikitlearn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Opencv-informational?style=flat&logo=Opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a)
 
 ---
 
