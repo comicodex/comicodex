@@ -50,7 +50,7 @@ Speech-to-text app (*coming soon*)
 
 ---
 ### 🦄 What I'm looking for...
-I'm looking to collaborate on amazing projects that contribute to make the world a better place
+I'm looking to collaborate on amazing projects that contribute to make a positive difference in the world
 
 ---
 
