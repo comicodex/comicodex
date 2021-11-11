@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Scikitlearn-informational?style=flat&logo=Scikitlearn&logoColor=white&color=2bbc8a)
